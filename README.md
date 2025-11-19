@@ -24,6 +24,8 @@ ENTÃO o estoque deve ser atualizado e a compra aparecer como “CONFIRMADA”.
 | :------------------------------------------------------------ |
 |Compra confirmada.|
 |Produtos lançados no estoque.|
+|Teste realizado e evidenciado|
+|https://drive.google.com/file/d/19IcXqvHAGEcWnFGf8sJlurvVz8TOsrMU/view?usp=drive_link
 
 ### Caso de Teste 02: Importar XML inválido
 | ID       | Descrição                                                        |
@@ -45,6 +47,8 @@ ENTÃO deve aparecer erro e bloqueio da ação.
 | :------------------------------------------------------------ |
 |Mensagem clara de erro.|
 |Não deve permitir gerar compra.|
+|Teste realizado e evidenciado|
+|https://drive.google.com/file/d/1SvRMaKu2XGwBeu8S5ycNsbf4zQs26HUl/view?usp=sharing|
 
 ### Caso de Teste 03: Falta de preenchimento obrigatório
 | ID       | Descrição                                                        |
@@ -65,6 +69,8 @@ ENTÃO deve exibir mensagens de “campo obrigatório”.
 | **Critérios de aceitação**                                      |
 | :------------------------------------------------------------ |
 |Campos obrigatórios validados.|
+|Testes realizados e evidenciados|
+|https://drive.google.com/file/d/1P4mI_k8QBf4f0ZSpxaSiWOVEDXv1kwvD/view?usp=sharing|
 
 ### Caso de Teste 04: Gerar compra mas não confirmar entrada
 | ID       | Descrição                                                        |
@@ -84,6 +90,8 @@ ENTÃO a compra deve ficar com status “PENDENTE” e sem afetar o estoque.
 | **Critérios de aceitação**                                      |
 | :------------------------------------------------------------ |
 |Estoque não alterado.|
+|Teste realizado e evidenciado|
+|https://drive.google.com/file/d/12XTe2ksud8ca5nGODfp5UDoOCl89pG7C/view?usp=drive_link|
 
 -------------------------------------------
 ## ✅ CENÁRIO 02 – PROCESSAMENTO DE VENDA (PDV)
@@ -110,6 +118,8 @@ ENTÃO a venda deve aparecer no Livro Caixa.
 | :------------------------------------------------------------ |
 |Estoque atualizado.|
 |Caixa alimentado.|
+|Teste realizado e evidenciado|
+|https://drive.google.com/file/d/1Z0IcYRJRrL-rlompSx4Jas-BFGHYMo_c/view?usp=drive_link|
 
 ### Caso de Teste 02: Produto sem estoque
 | ID       | Descrição                                                        |
@@ -129,6 +139,8 @@ ENTÃO deve exibir mensagem “Estoque insuficiente”.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Produto não deve entrar na venda.|
+|Teste realizado e reprovado: Produto sem estoque e venda foi finalizada normalmente|
+|https://drive.google.com/file/d/1mzNibPuDz-qtOPpbVVO4wqYZY3CZdVx_/view?usp=drive_link|
 
 ### Caso de Teste 03: Desconto total bloqueado quando há desconto por item
 | ID       | Descrição                                                        |
@@ -148,6 +160,8 @@ ENTÃO deve bloquear com alerta.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Desconto total bloqueado.|
+|Teste realizado e reprovado: Não é possível realizar desconto por item|
+|https://drive.google.com/file/d/1L4F66vJsugCm20Yn6hD_Cpf2QHTJiNbt/view?usp=drive_link|
 
 ### Caso de Teste 04: Finalizar venda sem selecionar tipo de documento
 | ID       | Descrição                                                        |
@@ -167,6 +181,8 @@ ENTÃO deve exibir erro.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Finalização bloqueada.|
+|Teste evidenciado e aprovado|
+|https://drive.google.com/file/d/1wPKubhpaGaX-tixe5Bet4jsk9sI_U5Zk/view?usp=drive_link|
 
 -------------------------------------------
 ## ✅ CENÁRIO 03 – COMPRA POR FORNECEDOR
