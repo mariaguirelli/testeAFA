@@ -21,6 +21,8 @@ ENTÃO estoque deve ser alimentado.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Compra CONFIRMADA.|
+| Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/1fqKH9aQK6nkugrr7FcaWXiHFm9g5HhhF/view?usp=drive_link|
 
 ### Caso de Teste 02: Fornecedor inexistente
 | ID       | Descrição                                                        |
