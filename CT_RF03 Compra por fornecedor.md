@@ -24,7 +24,7 @@ ENTÃO estoque deve ser alimentado.
 | Teste evidenciado e aprovado|
 | https://drive.google.com/file/d/1fqKH9aQK6nkugrr7FcaWXiHFm9g5HhhF/view?usp=drive_link|
 
-### Caso de Teste 02: Fornecedor inexistente
+### Caso de Teste 02: Fornecedor não infomado.
 | ID       | Descrição                                                        |
 | :------- | :---------------------------------------------------------------- |
 |C03-CT02	 | Deve impedir compra sem fornecedor.|
@@ -42,6 +42,8 @@ ENTÃO sistema deve bloquear.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Mensagem “Fornecedor obrigatório”.|
+| Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/1Faypdr3zP1ee76mG-4ot_lRE46MAWryP/view?usp=drive_link |
 
 ### Caso de Teste 03: Tipo de documento inválido para compra a prazo
 | ID       | Descrição                                                        |
@@ -61,3 +63,5 @@ ENTÃO deve exibir alerta.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Documento não deve ser aceito.|
+| Teste realizado e evidenciado|
+| https://drive.google.com/file/d/1Hq4nj85S1h9CVpWzo3SGrfhW3n8OBEfA/view?usp=drive_link|
