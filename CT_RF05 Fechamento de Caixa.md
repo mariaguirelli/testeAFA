@@ -40,7 +40,10 @@ ENTÃO deve exibir alerta de “nenhuma movimentação”.
 
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
-|Bloqueio do fechamento.|
+|Cadastro salvo.|
+| Teste evidenciado e reprovado|
+| https://drive.google.com/file/d/1pvnWKJZPZooJewt376hhEzQaR9XUgkvg/view?usp=sharing|
+
 
 ### Caso de Teste 03: Retirada de valores com sucesso
 | ID       | Descrição                                                        |
