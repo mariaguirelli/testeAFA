@@ -63,7 +63,10 @@ ENTÃO retirada deve aparecer registrada.
 
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
-|Entrada listada corretamente.|
+|Cadastro salvo.|
+| Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/1MOBvx3WOdkA0MNY46UEEdLH2Upn4Nq4k/view?usp=sharing|
+
 
 ### Caso de Teste 04: Retirada sem preencher campos obrigatórios
 | ID       | Descrição                                                        |
@@ -82,5 +85,8 @@ ENTÃO deve exibir alerta de obrigatoriedade.
 
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
-|Retirada não registrada.|
+|Cadastro salvo.|
+| Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/1qAlE4cJ48llwHTHx-_eSMaGT2eRfbhn9/view?usp=sharing|
+
 
