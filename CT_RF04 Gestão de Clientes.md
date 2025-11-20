@@ -60,9 +60,12 @@ QUANDO a venda ultrapassar esse valor
 ENTÃO sistema alerta e abre fluxo de contas a receber.
 
 | **Critérios de Aceitação**                                             |
-| :------------------------------------------------------------ |
+| :-------------
+|----------------------------------------------- |
 |Alerta exibido.|
 |Venda permitida após confirmação.|
+|Teste evidenciado e aprovado|
+|https://drive.google.com/file/d/1LbZXmx6bXhMLDCbbp2WWUdhuD8CRoWxK/view?usp=drive_link|
 
 ### Caso de Teste 04: Cadastrar dependente corretamente
 | ID       | Descrição                                                        |
@@ -83,3 +86,4 @@ ENTÃO ele deve ser vinculado.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Dependente aparece listado.|
+|
