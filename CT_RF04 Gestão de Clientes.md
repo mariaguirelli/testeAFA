@@ -20,6 +20,8 @@ ENTÃO cliente deve aparecer na lista.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Cadastro salvo.|
+| Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/10gNX-L__EZzPAwGBLvtEDn0jzO160HQk/view?usp=drive_link|
 
 ### Caso de Teste 02: Tentativa de salvar cliente sem campos obrigatórios
 | ID       | Descrição                                                        |
@@ -39,6 +41,8 @@ ENTÃO deve exibir alerta.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Cadastro bloqueado.|
+|Teste evidenciado e aprovado|
+| https://drive.google.com/file/d/1eIEQjB3AgRr2jpCnZ3dfKWq_olC_zH2s/view?usp=drive_link|
 
 ### Caso de Teste 03: Venda acima do limite de crédito
 | ID       | Descrição                                                        |
