@@ -86,4 +86,5 @@ ENTÃO ele deve ser vinculado.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Dependente aparece listado.|
-|
+| Teste evidenciado e aprovado|
+|https://drive.google.com/file/d/1AIO0JONZg5wBQS5EuoMZ0EBR0CfEyS1b/view?usp=drive_link|
